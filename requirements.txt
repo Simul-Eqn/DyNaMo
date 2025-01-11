@@ -3,3 +3,4 @@ networkx
 torch
 dgl
 matplotplib
+fgutils
